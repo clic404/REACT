@@ -1,5 +1,7 @@
 # REACT-NATIVE
 
+![](https://avatars.githubusercontent.com/u/67119593?v=4)
+
 Bitácora React Native en apoyo a la comunidad Developers.
 
 
